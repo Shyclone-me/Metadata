@@ -10,3 +10,4 @@ A metadata reader and editor tool focused on privacy, cybersecurity, and digital
 ```bash
 pip install pillow piexif pypdf2 mutagen
 ```
+this is try
